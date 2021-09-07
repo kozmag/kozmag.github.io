@@ -72,6 +72,7 @@ blockquote::before {
   font-size: 45px;
   font-family: 'Abril Fatface', cursive;
   display: flex;
+  color: blue
 }
 .idezet2{
   height: 220px;
